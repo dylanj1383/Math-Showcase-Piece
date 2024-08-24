@@ -1,7 +1,7 @@
 # Math Showcase Piece
 A processing program created based on the curriculum covered in the Grade 12 Advanced Functions course. Graph a variety of functions, plotted with asymptotes, holes and intercepts. 
 
-![Math_Showcase_img](https://github.com/user-attachments/assets/0427b77e-a8d6-47bb-a7a0-2edd3786ea04)
+![Math_Showcase_Img](https://github.com/user-attachments/assets/9979055d-93a8-4bc0-8c2e-ca102089733d)
 
 ### Prerequisites
 - Download and install processing from https://processing.org/download
